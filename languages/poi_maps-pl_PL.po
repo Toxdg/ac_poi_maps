@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: POI\n"
+"POT-Creation-Date: 2015-02-27 11:23+0100\n"
+"PO-Revision-Date: 2015-02-27 11:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../option.php:20 ../option.php:41 ../option.php:49
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ../option.php:52 ../poi_maps.php:195 ../shortcode.php:34
+msgid "Category"
+msgstr "Kategoria"
+
+#: ../option.php:57 ../poi_maps.php:190 ../shortcode.php:35
+#: ../woj_select.php:1
+msgid "Province"
+msgstr "Województwa"
+
+#: ../option.php:61
+msgid "List POI"
+msgstr "Lista POI"
+
+#: ../option.php:65
+msgid "Filter"
+msgstr "Filtr"
+
+#: ../option.php:69
+msgid "Api Key"
+msgstr "Klucz API"
+
+#: ../option.php:73
+msgid "Map Icon"
+msgstr "Ikona Mapy"
+
+#: ../option.php:74
+msgid "Set icon"
+msgstr "Ustaw ikone"
+
+#: ../option.php:74
+msgid "Remove icon"
+msgstr "Usuń ikone"
+
+#: ../option.php:80
+msgid "Map Center"
+msgstr "Centrum mapy"
+
+#: ../option.php:80
+msgid "check"
+msgstr "sprawdź"
+
+#: ../option.php:92
+#, fuzzy
+msgid "Shortcodes"
+msgstr "Shortcode punktu"
+
+#: ../option.php:98
+msgid "Full view"
+msgstr "Pełny widok"
+
+#: ../option.php:99
+msgid "Single Point"
+msgstr "Pojedynczy punkt"
+
+#: ../option.php:100
+msgid "Single category POI"
+msgstr "Pojedyncza kategoria POI"
+
+#: ../option.php:101
+msgid "Return post phone number"
+msgstr "Zwraca numer telefonu przypisany do postu"
+
+#: ../option.php:102
+msgid "Return post email number"
+msgstr "Zwraca e-mail przypisany do postu"
+
+#: ../poi_maps.php:19
+msgid "Point name"
+msgstr "Nazwa punktu"
+
+#: ../poi_maps.php:35 ../poi_maps.php:36
+msgid "Points on map"
+msgstr "Punkty na mapie"
+
+#: ../poi_maps.php:37
+msgid "Point"
+msgstr "Punkt"
+
+#: ../poi_maps.php:59
+msgid "Category POI"
+msgstr "Kategoria POI"
+
+#: ../poi_maps.php:60
+msgid "Add POI Category"
+msgstr "Dodaj Kategorie"
+
+#: ../poi_maps.php:61
+msgid "New POI category"
+msgstr "Nowa Kategoria"
+
+#: ../poi_maps.php:78
+msgid "Place:"
+msgstr "Miejsce:"
+
+#: ../poi_maps.php:79
+msgid "Contact:"
+msgstr "Kontakt:"
+
+#: ../poi_maps.php:81
+msgid "Excerpt"
+msgstr "Krótki wypis"
+
+#: ../poi_maps.php:96
+msgid "Point Shortcode"
+msgstr "Shortcode punktu"
+
+#: ../poi_maps.php:105
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: ../poi_maps.php:105
+msgid "your@mail.com"
+msgstr "twój@mail.pl"
+
+#: ../poi_maps.php:107 ../poi_maps.php:193
+msgid "Phone:"
+msgstr "Tel:"
+
+#: ../poi_maps.php:109
+msgid "www:"
+msgstr ""
+
+#: ../poi_maps.php:118
+msgid "Address:"
+msgstr "Adres:"
+
+#: ../poi_maps.php:118
+msgid "Address: street number, city"
+msgstr "Adres: ulica numer, miasto"
+
+#: ../poi_maps.php:119
+msgid "Check the address"
+msgstr "Sprawdz adres"
+
+#: ../poi_maps.php:128
+msgid "Latitude"
+msgstr "Szerokość geograficzna"
+
+#: ../poi_maps.php:131
+msgid "Longitude"
+msgstr "Długość geograficzna"
+
+#: ../poi_maps.php:134
+msgid "Latitude and longitude should be given in decimal form."
+msgstr ""
+"Szerokość i długość geograficzna powinna być podana w postaci dziesiętnej."
+
+#: ../poi_maps.php:186
+msgid "Title"
+msgstr "Tytuł"
+
+#: ../poi_maps.php:187
+msgid "Address"
+msgstr "Adres"
+
+#: ../poi_maps.php:192
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../poi_maps.php:198
+msgid "Date"
+msgstr "Data"
+
+#: ../poi_maps.php:248
+msgid "Show All"
+msgstr "Wszystkie"
+
+#: ../shortcode.php:49 ../shortcode.php:181 ../shortcode.php:224
+msgid "Map"
+msgstr "Mapa"
+
+#: ../shortcode.php:59 ../shortcode.php:84
+msgid "All"
+msgstr "Wszystkie"
+
+#, fuzzy
+#~ msgid "Category:"
+#~ msgstr "Kategoria"

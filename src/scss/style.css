@@ -1,0 +1,14 @@
+.ac_poi_map {
+  position: relative;
+  box-sizing: border-box;
+  margin: 20px 0; }
+  .ac_poi_map > div.ac_poi_map_main {
+    height: 50vh;
+    max-height: 450px;
+    min-height: 200px;
+    background: ghostwhite; }
+
+.ac_poi_map-info-box > div:nth-of-type(1) {
+  font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */

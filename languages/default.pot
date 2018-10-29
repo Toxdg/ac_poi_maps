@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: POI\n"
+"POT-Creation-Date: 2015-01-26 15:28+0100\n"
+"PO-Revision-Date: 2015-01-26 15:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../option.php:20 ../option.php:41 ../option.php:49
+msgid "Settings"
+msgstr ""
+
+#: ../option.php:52 ../poi_maps.php:189 ../shortcode.php:34
+msgid "Category"
+msgstr ""
+
+#: ../option.php:57 ../poi_maps.php:185 ../shortcode.php:35
+#: ../woj_select.php:1
+msgid "Province"
+msgstr ""
+
+#: ../option.php:61
+msgid "List POI"
+msgstr ""
+
+#: ../option.php:65
+msgid "Filter"
+msgstr ""
+
+#: ../option.php:69
+msgid "Api Key"
+msgstr ""
+
+#: ../option.php:73
+msgid "Map Icon"
+msgstr ""
+
+#: ../option.php:74
+msgid "Set icon"
+msgstr ""
+
+#: ../option.php:74
+msgid "Remove icon"
+msgstr ""
+
+#: ../option.php:80
+msgid "Map Center"
+msgstr ""
+
+#: ../option.php:92
+msgid "Shortcodes"
+msgstr ""
+
+#: ../option.php:98
+msgid "Full view"
+msgstr ""
+
+#: ../option.php:99
+msgid "Single Point"
+msgstr ""
+
+#: ../option.php:100
+msgid "Single category POI"
+msgstr ""
+
+#: ../option.php:101
+msgid "Return post phone number"
+msgstr ""
+
+#: ../option.php:102
+msgid "Return post email number"
+msgstr ""
+
+#: ../poi_maps.php:19
+msgid "Point name"
+msgstr ""
+
+#: ../poi_maps.php:35 ../poi_maps.php:36
+msgid "Points on map"
+msgstr ""
+
+#: ../poi_maps.php:37
+msgid "Point"
+msgstr ""
+
+#: ../poi_maps.php:59
+msgid "Category POI"
+msgstr ""
+
+#: ../poi_maps.php:60
+msgid "Add POI Category"
+msgstr ""
+
+#: ../poi_maps.php:61
+msgid "New POI category"
+msgstr ""
+
+#: ../poi_maps.php:78
+msgid "Place:"
+msgstr ""
+
+#: ../poi_maps.php:79
+msgid "Contact:"
+msgstr ""
+
+#: ../poi_maps.php:81
+msgid "Excerpt"
+msgstr ""
+
+#: ../poi_maps.php:96
+msgid "Point Shortcode"
+msgstr ""
+
+#: ../poi_maps.php:105
+msgid "E-mail:"
+msgstr ""
+
+#: ../poi_maps.php:105
+msgid "your@mail.com"
+msgstr ""
+
+#: ../poi_maps.php:107 ../poi_maps.php:188
+msgid "Phone:"
+msgstr ""
+
+#: ../poi_maps.php:115
+msgid "Address:"
+msgstr ""
+
+#: ../poi_maps.php:115
+msgid "Address: street number, city"
+msgstr ""
+
+#: ../poi_maps.php:116
+msgid "Check the address"
+msgstr ""
+
+#: ../poi_maps.php:125
+msgid "Latitude"
+msgstr ""
+
+#: ../poi_maps.php:128
+msgid "Longitude"
+msgstr ""
+
+#: ../poi_maps.php:131
+msgid "Latitude and longitude should be given in decimal form."
+msgstr ""
+
+#: ../poi_maps.php:181
+msgid "Title"
+msgstr ""
+
+#: ../poi_maps.php:182
+msgid "Address"
+msgstr ""
+
+#: ../poi_maps.php:187
+msgid "E-mail"
+msgstr ""
+
+#: ../poi_maps.php:191
+msgid "Date"
+msgstr ""
+
+#: ../poi_maps.php:241
+msgid "Show All"
+msgstr ""
+
+#: ../shortcode.php:49 ../shortcode.php:174 ../shortcode.php:217
+msgid "Map"
+msgstr ""
+
+#: ../shortcode.php:59 ../shortcode.php:84
+msgid "All"
+msgstr ""
